@@ -11,7 +11,8 @@ node_modules/
 dist/
 build/
 coverage/
-*.iml
+tmp/
+temp/
 
 # Ignore large binaries
 *.exe
@@ -26,21 +27,4 @@ coverage/
 *.rar
 
 # Ignore Git LFS files
-*.psd
-*.tiff
-*.tif
-*.mp4
-*.mov
-*.avi
-*.mkv
-*.mp3
-*.wav
-*.flac
-*.ogg
-*.pdf
-*.doc
-*.docx
-*.ppt
-*.pptx
-*.xls
-*.xlsx
+*.lfs
