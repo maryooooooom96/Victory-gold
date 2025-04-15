@@ -1,0 +1,46 @@
+# Ignore unnecessary files and directories
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.vscode/
+node_modules/
+dist/
+build/
+coverage/
+*.iml
+
+# Ignore large binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.iso
+*.tar
+*.zip
+*.gz
+*.rar
+
+# Ignore Git LFS files
+*.psd
+*.tiff
+*.tif
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
