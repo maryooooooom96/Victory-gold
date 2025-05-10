@@ -1,0 +1,30 @@
+# Ignore unnecessary files and directories
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.vscode/
+node_modules/
+dist/
+build/
+coverage/
+tmp/
+temp/
+
+# Ignore large binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.iso
+*.tar
+*.zip
+*.gz
+*.rar
+
+# Ignore Git LFS files
+*.lfs
